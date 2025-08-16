@@ -46,8 +46,11 @@ Editar
 ## ▶️ Como Executar o Projeto
 
 Clone o repositório:git clone https://github.com/LourraineR/Analise_salarial_dados.git
+
 Acesse a pasta do projeto:cd Dashboard-Analise-de-Salarios
+
 Instale as dependências:pip install -r requirements.txt
+
 Execute o dashboard: streamlit run app.py
 
 ---
