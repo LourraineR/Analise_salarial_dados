@@ -45,7 +45,7 @@ Editar
 
 ## ▶️ Como Executar o Projeto
 
-Clone o repositório:git clone https://github.com/LourraineR/Analise_salarial_dados.git
+Clone o repositório: git clone https://github.com/LourraineR/Analise_salarial_dados.git
 
 Acesse a pasta do projeto: cd Dashboard-Analise-de-Salarios
 
