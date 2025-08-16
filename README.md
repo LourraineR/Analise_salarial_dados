@@ -47,15 +47,16 @@ Editar
 
 Clone o repositório:git clone https://github.com/LourraineR/Analise_salarial_dados.git
 
-Acesse a pasta do projeto:cd Dashboard-Analise-de-Salarios
+Acesse a pasta do projeto: cd Dashboard-Analise-de-Salarios
 
-Instale as dependências:pip install -r requirements.txt
+Instale as dependências: pip install -r requirements.txt
 
 Execute o dashboard: streamlit run app.py
 
 ---
 
-🏆 Créditos
+## 🏆 Créditos
+
 Este projeto foi desenvolvido durante a Imersão Dados com Python, promovida pela Alura e conduzida pelos instrutores:
 
 Guilherme Lima
